@@ -6,10 +6,7 @@ import { ModalEditFood } from '../../components/ModalEditFood';
 import api from '../../services/api';
 import { FoodsContainer } from './styles';
 
-interface DashbordProps {
-
-}
-export const Dashboard = ({ }: DashbordProps): ReactElement => {
+export const Dashboard = (): ReactElement => {
   const [modalOpen, setModalOpen] = useState<boolean>(false)
   const [editModalOpen, setEditModalOpen] = useState<boolean>(false)
   const [editingFood, setEditingFood] = useState<IFood>()
