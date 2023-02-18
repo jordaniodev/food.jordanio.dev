@@ -70,19 +70,9 @@ export const handler: Handler = async (event, context) => {
       }
 
       if (segments.length === 1) {
-        const id = Number(segments[0]);
-        const lineWillDelete = read(id);
-        if (!!lineWillDelete) {
-          return {
-            statusCode: 200,
-            headers,
-          }
-        }
-
         return {
-          statusCode: 404,
+          statusCode: 200,
           headers,
-          body: 'This row dont exist'
         }
       }
 
