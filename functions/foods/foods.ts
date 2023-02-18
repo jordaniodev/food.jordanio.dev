@@ -50,7 +50,7 @@ export const handler: Handler = async (event, context) => {
       return {
         statusCode: 200,
         headers,
-        body: JSON.stringify(event.body)
+        body: event.body
       }
     case 'PUT':
       const id = Number(segments[0]);
