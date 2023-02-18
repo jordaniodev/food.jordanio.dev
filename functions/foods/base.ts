@@ -5,7 +5,7 @@ export default [
     "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas",
     "price": "19.90",
     "available": true,
-    "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+    "image": "https://loremflickr.com/500/500/food,paris?random=3"
   },
   {
     "id": 2,
@@ -13,10 +13,10 @@ export default [
     "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
     "price": "21.90",
     "available": false,
-    "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+    "image": "https://loremflickr.com/500/500/food,paris?random=1"
   },
   {
-    "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+    "image": "https://loremflickr.com/500/500/food,paris?random=2",
     "name": "Moda Italiana",
     "price": "19.90",
     "description": "Descrição",
@@ -24,7 +24,7 @@ export default [
     "id": 3
   },
   {
-    "image": "https://picsum.photos/500/500",
+    "image": "https://loremflickr.com/500/500/food,paris?random=4",
     "name": "Comida Qualquer",
     "price": "19.50",
     "description": "I like task automation with npm but the usual way to run multiple commands concurrently is npm run watch-js & npm run watch-css. That's fine but it's hard to keep on track of different outputs. Also if one process fails, others still keep running and you won't even notice the difference.",
@@ -32,7 +32,7 @@ export default [
     "id": 4
   },
   {
-    "image": "https://picsum.photos/200/300",
+    "image": "https://loremflickr.com/500/500/food,paris?random=5",
     "name": "Vaaaai",
     "price": "50.50",
     "description": "I like task automation with npm but the usual way to run multiple commands concurrently is npm run watch-js & npm run watch-css. That's fine but it's hard to keep on track of different outputs. Also if one process fails, others still keep running and you won't even notice the difference.",

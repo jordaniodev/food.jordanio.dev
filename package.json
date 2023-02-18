@@ -24,7 +24,7 @@
   },
   "scripts": {
     "start:front": "react-scripts start",
-    "start:back": "json-server functions/db.json -p 3333",
+    "start:back": "netlify functions:serve",
     "start:dev": "concurrently \"npm run start:front\" \"npm run start:back\"",
     "build": "react-scripts build",
     "test": "react-scripts test",

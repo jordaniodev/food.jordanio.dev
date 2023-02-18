@@ -21,6 +21,7 @@
    <li><a href="https://www.npmjs.com/">NPM</a></li>
    <li><a href="https://styled-components.com/">Styled Component</a></li>
    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
+   <li><a href="https://loremflickr.com/">Loremflickr</a></li>
    <li><a href="https://create-react-app.dev/">Create React App</a></li>
    <li><a href="https://pt-br.reactjs.org/">React JS</a></li>
    <li><a href="https://docs.github.com/pt/rest">Github API</a></li>
