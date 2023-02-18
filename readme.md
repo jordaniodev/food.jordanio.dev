@@ -2,6 +2,9 @@
    <img  src="https://i.ibb.co/SPGby68/jordanio.png"  />
 </p>
 <h1>Food Listing Project</h1>
+<p  align="center">
+   <img  src="https://i.ibb.co/k58p5KN/foodjordanio.png"  />
+</p>
 <p>Este projeto é uma aplicação web construída com React que utiliza uma API falsa construída com json-sever para exibir uma lista de comidas que podem ser editadas,desativadas e excluídas.</p>
 <p>Ele tem como objetivo a utilizaçãs das funcionalidades básicas de uma aplicação que utiliza react, são elas:</p>
 <ul>

@@ -75,7 +75,6 @@ export const handler: Handler = async (event, context) => {
           headers,
         }
       }
-
       return {
         statusCode: 422,
         headers,
